@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "icon" : "icon_tabbar_mine_selected",
+      "title" : "你那一笑倾国倾城"
+    },
+    {
+      "icon" : "icon_tabbar_mine",
+      "title" : "那里记录了最唯美的爱情故事"
+    },
+    {
+      "icon" : "icon_tabbar_mine_selected",
+      "title" : "我怎么是一个剩女"
+    },
+    {
+      "icon" : "icon_tabbar_mine",
+      "title" : "生命中最后的四分钟"
+    },
+    {
+      "icon" : "icon_tabbar_mine_selected",
+      "title" : "我们都需要治疗"
+    },
+    {
+      "icon" : "icon_tabbar_mine_selected",
+      "title" : "我们需要治疗"
+    },
+    {
+      "icon" : "icon_tabbar_mine_selected",
+      "title" : "我们都治疗"
+    },
+    {
+      "icon" : "icon_tabbar_mine_selected",
+      "title" : "我们都疗"
+    }
+  ]
+}
